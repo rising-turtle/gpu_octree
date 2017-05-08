@@ -1,0 +1,2 @@
+/home/davidz/work/gpu_match/gpu_octree/build/bin/CMakeFiles/cuda_transform.dir
+/home/davidz/work/gpu_match/gpu_octree/build/bin/CMakeFiles/test_gpu_knn.dir

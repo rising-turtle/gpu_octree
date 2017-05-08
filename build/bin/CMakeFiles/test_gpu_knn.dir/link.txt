@@ -1,0 +1,1 @@
+/usr/bin/c++     -Wno-deprecated     CMakeFiles/test_gpu_knn.dir/test_knn_search.o  -o test_gpu_knn -rdynamic -L/home/davidz/work/3rdlibs/pcl-git/build/lib -lpcl_octree -lpcl_gpu_octree -lpcl_gpu_containers -Wl,-rpath,/home/davidz/work/3rdlibs/pcl-git/build/lib 
